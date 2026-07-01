@@ -4,7 +4,7 @@ LIC_FILES_CHKSUM = "file://${COMMON_LICENSE_DIR}/MIT;md5=0835ade698e0bcf8506ecda
 SRC_URI = "git://git@github.com/AnishNandhan/myVMM.git;protocol=ssh;branch=main"
 
 PV = "1.0+git${SRCPV}"
-SRCREV = "c82359e5342d8d60cf8546c406f131030f2b6962"
+SRCREV = "67947f456f492f74773a1e7f8a75d05ead696d43"
 
 S = "${WORKDIR}/git"
 
